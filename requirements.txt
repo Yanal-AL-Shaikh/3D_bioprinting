@@ -1,0 +1,6 @@
+ultralytics
+torch
+opencv-python
+numpy
+PyQt5
+winsound-ctypes; platform_system == "Windows"
