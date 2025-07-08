@@ -1,0 +1,5 @@
+path: /content/dataf_z
+train: /content/dataf_z/train/images
+val: /content/dataf_z/test/images
+nc: 2
+names: ['under', 'ok']
