@@ -1,6 +1,6 @@
 # 3D Bioprinting Monitoring System
 
-## 🧠 Introduction
+##  Introduction
 An intelligent monitoring system developed using AI and deep learning techniques to oversee 3D bioprinting processes that print organs, tissues, and living cells for transplantation.  
 The goal is to **detect printing errors early**, such as **under-extrusion**, and automatically stop the printer to avoid material waste.
 
